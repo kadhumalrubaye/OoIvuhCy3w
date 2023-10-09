@@ -1,0 +1,5238 @@
+.root {
+  position: relative;
+  width: 1400px;
+  height: 16540px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.bGWHITE {
+  position: absolute;
+  left: -0.2857%;
+  right: -0.2857%;
+  top: 0.1088%;
+  bottom: 1.5719%;
+  background-image:/* webpackIgnore: true */ url('/assets/bGWHITE.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/oodiNewsletterEnglish1.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/oodiNewsletterEnglish1.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 4px -18px;
+  mask-position: 4px -18px;
+  -webkit-mask-size: 1400px 16540px;
+  mask-size: 1400px 16540px;
+}
+.rectangle1 {
+  position: absolute;
+  left: -3.0714%;
+  right: -3.5%;
+  top: 94.6614%;
+  bottom: -0.0181%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hueSaturation16Copy {
+  position: absolute;
+  left: 0;
+  right: 26.7143%;
+  top: 96.8138%;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/hueSaturation16Copy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ellipse1 {
+  position: absolute;
+  left: 61.5%;
+  right: 0.8571%;
+  top: 95.127%;
+  bottom: 1.6868%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vectorSmartObject {
+  position: absolute;
+  left: 74.7857%;
+  right: 22.8571%;
+  top: 96.7956%;
+  bottom: 2.1282%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy3 {
+  position: absolute;
+  left: 79.2857%;
+  right: -3.5714%;
+  top: 96.4994%;
+  bottom: 1.451%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject2 {
+  position: absolute;
+  left: 89%;
+  right: -6.0714%;
+  top: 96.4268%;
+  bottom: 2.1282%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject3 {
+  position: absolute;
+  left: 77.8571%;
+  right: 12.6429%;
+  top: 96.312%;
+  bottom: 2.9262%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject4 {
+  position: absolute;
+  left: 3.1429%;
+  right: 73.5714%;
+  top: 94.9395%;
+  bottom: 4.6856%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject5 {
+  position: absolute;
+  left: 86.7143%;
+  right: 5.8571%;
+  top: 95.3386%;
+  bottom: 3.2648%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject5.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy {
+  position: absolute;
+  left: 74.6429%;
+  right: 16.5%;
+  top: 95.9553%;
+  bottom: 3.2769%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tHANKYOU {
+  color: #fff;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9149%;
+  right: 43.0851%;
+  top: 95.3867%;
+  bottom: 3.8032%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.thankYouForYourOngoingCommitme {
+  position: absolute;
+  left: 6.6069%;
+  right: 39.1789%;
+  top: 96.3244%;
+  bottom: 3.464%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.transformationJourneyLetSConti {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.6069%;
+  right: 34.3931%;
+  top: 96.5259%;
+  bottom: 3.2625%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.achieveEvenGreaterSuccessInThe {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.6069%;
+  right: 41.7503%;
+  top: 96.7275%;
+  bottom: 3.0609%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.weEncourageYouToShareAnyThough {
+  position: absolute;
+  left: 6.6069%;
+  right: 40.8217%;
+  top: 96.929%;
+  bottom: 2.8594%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.feedbackYouMightHaveWithUsOnTh {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.6069%;
+  right: 46.3931%;
+  top: 97.1305%;
+  bottom: 2.6579%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.digitalIqZainCom {
+  color: #f9fdf9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.6069%;
+  right: 73.036%;
+  top: 97.3321%;
+  bottom: 2.4563%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObject6 {
+  position: absolute;
+  left: 6.8571%;
+  right: 79.2857%;
+  top: 98.7062%;
+  bottom: 0.8343%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject6.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.zainLogoLeftWith2Logos {
+  position: absolute;
+  left: 6.8571%;
+  right: 75.7857%;
+  top: 98.0411%;
+  bottom: 1.5599%;
+  background-image:/* webpackIgnore: true */ url('/assets/zainLogoLeftWith2Logos.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject7 {
+  position: absolute;
+  left: 23.6429%;
+  right: 50%;
+  top: 98.8875%;
+  bottom: 0.8283%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject7.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy11 {
+  position: absolute;
+  left: 28%;
+  right: 49.6429%;
+  top: 98.1378%;
+  bottom: 1.578%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer1Copy4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 83.3615%;
+  bottom: 5.3204%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer1Copy4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject8 {
+  position: absolute;
+  left: 13.8571%;
+  right: 17.6429%;
+  top: 88.416%;
+  bottom: 7.8779%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject8.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.whatIsCrossWord {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 52.9987%;
+  top: 85.6237%;
+  bottom: 14.074%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.aCrosswordPuzzleIsAWordGameTha {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 15.3559%;
+  top: 85.9008%;
+  bottom: 13.8876%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.withEachSquareCorrespondingToA {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 15.0701%;
+  top: 86.1023%;
+  bottom: 13.6861%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.theSquaresWithWordsThatInterse {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 16.6416%;
+  top: 86.3039%;
+  bottom: 13.4845%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.matchTheCluesProvidedAndLeadTo {
+  position: absolute;
+  left: 16.287%;
+  right: 31.9273%;
+  top: 86.5054%;
+  bottom: 13.283%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label5 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label6 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label7 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.howToPlay {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 64.9987%;
+  top: 86.8329%;
+  bottom: 12.8648%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.completeTheCrossWordAndSendThe {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 26.8559%;
+  top: 87.11%;
+  bottom: 12.6784%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.digitalIqZainComToGetAChanceTo {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 30.713%;
+  top: 87.3115%;
+  bottom: 12.4769%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lastSubmissionsWillBeAcceptedU {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.287%;
+  right: 10.8559%;
+  top: 87.7146%;
+  bottom: 12.0738%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.beAnnouncedOnSeptember7th {
+  position: absolute;
+  left: 16.287%;
+  right: 49.7844%;
+  top: 87.9161%;
+  bottom: 11.8723%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper4 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label8 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label9 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.kEY {
+  color: #5b0ad9;
+  font-size: 24.558px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 69.0004%;
+  right: 27.4281%;
+  top: 92.1147%;
+  bottom: 7.7039%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1OurNewsletterWillKeepUsInform {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 35.5551%;
+  top: 92.2727%;
+  bottom: 7.5157%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.preparedToLeadInTheIndustry {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 50.2694%;
+  top: 92.4843%;
+  bottom: 7.3041%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2IraqSFirstAndOnlyDigitalNativ {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 37.1265%;
+  top: 92.6959%;
+  bottom: 7.0925%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._3IraqSLeadingOperator {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 55.7694%;
+  top: 92.9075%;
+  bottom: 6.8809%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._4TheFIFATournamentCategory {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 47.8408%;
+  top: 93.1191%;
+  bottom: 6.6692%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._5TheCityWhereTheFIFAPSTourname {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 39.9122%;
+  top: 93.3308%;
+  bottom: 6.4576%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.happened {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 71.2694%;
+  top: 93.5424%;
+  bottom: 6.246%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._6TheNatureOfOurWonderfulWorld {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 44.1265%;
+  top: 93.754%;
+  bottom: 6.0344%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._7APopularOnlineLearningPlatfor {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.2306%;
+  right: 44.6979%;
+  top: 93.9656%;
+  bottom: 5.8228%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObject9 {
+  position: absolute;
+  left: 69%;
+  right: 18.4286%;
+  top: 92.3216%;
+  bottom: 7.4607%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject9.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject10 {
+  position: absolute;
+  left: 81.9286%;
+  right: -7.9286%;
+  top: 92.9807%;
+  bottom: 4.8126%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject10.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gAMEON {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 15.2476%;
+  right: 44.6096%;
+  top: 84.2254%;
+  bottom: 14.9645%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObjectCopy7 {
+  position: absolute;
+  left: -35.1429%;
+  right: 74.2143%;
+  top: 83.3676%;
+  bottom: 8.9601%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy7.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy13 {
+  position: absolute;
+  left: 64.5%;
+  right: 15.0714%;
+  top: 84.5103%;
+  bottom: 15.1572%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy13.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.halfCricleCopy4 {
+  position: absolute;
+  left: 75.9286%;
+  right: 8.9286%;
+  top: 83.8271%;
+  bottom: 14.5163%;
+  background-image:/* webpackIgnore: true */ url('/assets/halfCricleCopy4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nativePlatformVsCross {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 55.3948%;
+  top: 71.1509%;
+  bottom: 28.5468%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.platformSession {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 68.2519%;
+  top: 71.4532%;
+  bottom: 28.2445%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.march2023 {
+  color: #6bdd6b;
+  font-size: 33.333px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 78.8948%;
+  top: 71.8059%;
+  bottom: 27.9523%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.theGDSCOfAlIraqiaUniversityPar {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 50.5376%;
+  top: 72.4356%;
+  bottom: 27.3527%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.withZainYouthToOrganizeADevelo {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 50.9662%;
+  top: 72.7379%;
+  bottom: 27.0504%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.masterclassOnTheUniversityCamp {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 50.9662%;
+  top: 73.0402%;
+  bottom: 26.7481%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.objectiveOfTheSessionWasToEduc {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 53.8948%;
+  top: 73.3425%;
+  bottom: 26.4458%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.youngStudentsAboutSeveralMobil {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 52.3948%;
+  top: 73.6448%;
+  bottom: 26.1436%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.developmentTopicsExperiencedDe {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 48.7519%;
+  top: 73.9471%;
+  bottom: 25.8413%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.iraqiJournalistSyndicate {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 12.8948%;
+  top: 74.4262%;
+  bottom: 25.2715%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.event {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 41.7519%;
+  top: 74.7285%;
+  bottom: 24.9692%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.june2023 {
+  color: #6bdd6b;
+  font-size: 33.333px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 37.3948%;
+  top: 75.0811%;
+  bottom: 24.677%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.oodiWasThrilledToSponsorTheRec {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 5.8948%;
+  top: 75.7109%;
+  bottom: 24.0775%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.organizedByTheIraqiJournalists {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 6.3234%;
+  top: 76.0132%;
+  bottom: 23.7752%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.withAnAudienceOfAround400Peopl {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 8.6091%;
+  top: 76.3155%;
+  bottom: 23.4729%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.wasAnExcellentPlatformToShowca {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 6.9662%;
+  top: 76.6178%;
+  bottom: 23.1706%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.servicesAndSupportTheCommunity {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 13.3948%;
+  top: 76.9201%;
+  bottom: 22.8683%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.theFantasticSponsorshipPackage {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 6.4662%;
+  top: 77.5247%;
+  bottom: 22.2637%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._5VanityNumbersForTheManagement {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 6.2519%;
+  top: 77.827%;
+  bottom: 21.9614%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.withAFreeBalanceOfUpTo35kIQDAn {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 6.2519%;
+  top: 78.1293%;
+  bottom: 21.6591%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.accessForOneMonthOodiAlsoShowe {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 9.9662%;
+  top: 78.4316%;
+  bottom: 21.3568%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fIFACompetitionAtZINC {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 13.8948%;
+  top: 67.963%;
+  bottom: 31.7347%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.baghdad {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 36.9662%;
+  top: 68.2653%;
+  bottom: 31.4324%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.february2023 {
+  color: #6bdd6b;
+  font-size: 33.333px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 32.6805%;
+  top: 68.618%;
+  bottom: 31.1401%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.zainIraqRecentlyHostedAnESport {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 13.3948%;
+  top: 69.2478%;
+  bottom: 30.5406%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tournamentOnFIFAPSForIndividua {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 6.8948%;
+  top: 69.5501%;
+  bottom: 30.2383%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.disabilitiesAtZINCBaghdadThisI {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 8.0376%;
+  top: 69.8524%;
+  bottom: 29.936%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.aimedToShowcaseTheCapabilities {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 11.1805%;
+  top: 70.1547%;
+  bottom: 29.6337%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.skillsOf22IndividualsWithDisab {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 6.6091%;
+  top: 70.457%;
+  bottom: 29.3314%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fieldOfESportsAndCreateACompet {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.0338%;
+  right: 9.1091%;
+  top: 70.7593%;
+  bottom: 29.0291%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.eSportsPUBGRegional {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 56.8234%;
+  top: 80.0368%;
+  bottom: 19.6609%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tournament {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 75.2519%;
+  top: 80.3391%;
+  bottom: 19.3586%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.july23 {
+  color: #6bdd6b;
+  font-size: 33.333px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 82.8948%;
+  top: 80.6918%;
+  bottom: 19.0664%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.zainIraqRecentlySponsoredThePa {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 48.1805%;
+  top: 81.3216%;
+  bottom: 18.4668%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ofAnIraqiTeamInThePUBGMobileRe {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 48.9662%;
+  top: 81.6239%;
+  bottom: 18.1645%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.clashTournamentHeldInSaudiArab {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 51.8234%;
+  top: 81.9262%;
+  bottom: 17.8622%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.july20thAsPartOfTheBrandSCommi {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 48.6805%;
+  top: 82.2285%;
+  bottom: 17.5599%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.toSupportingLocalTalentsThisSp {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 49.9662%;
+  top: 82.5308%;
+  bottom: 17.2576%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.allowedTheTeamToCompeteOnAGlob {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9624%;
+  right: 52.9662%;
+  top: 82.8331%;
+  bottom: 16.9553%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObject11 {
+  position: absolute;
+  left: 53.2143%;
+  right: 31.6429%;
+  top: 79.2275%;
+  bottom: 19.4908%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.halfCricleCopy3 {
+  position: absolute;
+  left: 49.4286%;
+  right: 40.7143%;
+  top: 70.7934%;
+  bottom: 28.1304%;
+  background-image:/* webpackIgnore: true */ url('/assets/halfCricleCopy3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject12 {
+  position: absolute;
+  left: 43.9286%;
+  right: 47.7143%;
+  top: 71.1561%;
+  bottom: 28.1002%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject12.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.eVENTS {
+  color: #5b0ad9;
+  font-size: 110.408px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.1964%;
+  right: 60.9465%;
+  top: 65.7618%;
+  bottom: 33.4281%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.layer5 {
+  position: absolute;
+  left: 39.2143%;
+  right: 45.8571%;
+  top: 79.3182%;
+  bottom: 18.9769%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer5.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aPanoplyOfEventsWasHostedByThe {
+  color: #58595b;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9355%;
+  right: 8.7074%;
+  top: 66.6677%;
+  bottom: 33.1207%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.commitmentToSupportingLocalIni {
+  color: #58595b;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9355%;
+  right: 12.7074%;
+  top: 66.8692%;
+  bottom: 32.9192%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObject13 {
+  position: absolute;
+  left: 54.3571%;
+  right: 5.7143%;
+  top: 79.7595%;
+  bottom: 16.8608%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject13.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy9 {
+  position: absolute;
+  left: 54.5714%;
+  right: 5.5%;
+  top: 71.1803%;
+  bottom: 25.573%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy9.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject14 {
+  position: absolute;
+  left: 1.7857%;
+  right: 50%;
+  top: 67.9034%;
+  bottom: 28.8922%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject14.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer3 {
+  position: absolute;
+  left: 35.5%;
+  right: 51.8571%;
+  top: 67.5044%;
+  bottom: 31.5222%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject15 {
+  position: absolute;
+  left: 6.3571%;
+  right: 53.5714%;
+  top: 74.0642%;
+  bottom: 20.2828%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject15.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject16 {
+  position: absolute;
+  left: 71.2143%;
+  right: 8.3571%;
+  top: 79.2517%;
+  bottom: 20.4158%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject16.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject17 {
+  position: absolute;
+  left: -3.4286%;
+  right: 83%;
+  top: 79.3907%;
+  bottom: 20.2768%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject17.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject18 {
+  position: absolute;
+  left: -5.2857%;
+  right: 84.8571%;
+  top: 67.3956%;
+  bottom: 32.2719%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject18.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.halfCricleCopy {
+  position: absolute;
+  left: 86.2857%;
+  right: -1.4286%;
+  top: 78.5685%;
+  bottom: 19.7749%;
+  background-image:/* webpackIgnore: true */ url('/assets/halfCricleCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer1Copy {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 61.838%;
+  bottom: 34.5163%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer1Copy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer10 {
+  position: absolute;
+  left: 82.5714%;
+  right: -0.7857%;
+  top: 63.8331%;
+  bottom: 34.9698%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer10.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy4 {
+  position: absolute;
+  left: 71.8571%;
+  right: -36.2857%;
+  top: 61.6747%;
+  bottom: 34.6614%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aWARDS {
+  color: #fff;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 33.1274%;
+  right: 31.9441%;
+  top: 63.3383%;
+  bottom: 35.8515%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2023 {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.2952%;
+  right: 39.1334%;
+  top: 62.7334%;
+  bottom: 36.4564%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.object {
+  position: absolute;
+  left: 5.5244%;
+  right: 68.1136%;
+  top: 61.9595%;
+  bottom: 35.8137%;
+  background-image:/* webpackIgnore: true */ url('/assets/object.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer4 {
+  position: absolute;
+  left: 7.9136%;
+  right: 69.1874%;
+  top: 63.1865%;
+  bottom: 35.8887%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.zainIraqDigitalServicesTeamWon {
+  position: absolute;
+  left: 6.9355%;
+  right: 35.0645%;
+  top: 64.4838%;
+  bottom: 35.3046%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper5 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label10 {
+  color: #fff;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label11 {
+  color: #fff;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.disruptiveOperatorInZainGroupA {
+  color: #fff;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9355%;
+  right: 30.6359%;
+  top: 64.6853%;
+  bottom: 35.1031%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.layer8 {
+  position: absolute;
+  left: 72.1429%;
+  right: 7%;
+  top: 62.6602%;
+  bottom: 35.0423%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer8.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer9 {
+  position: absolute;
+  left: 71.8571%;
+  right: 8.2857%;
+  top: 64.4921%;
+  bottom: 34.9758%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer9.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dizlee_AwardCopy {
+  position: absolute;
+  left: 72.5%;
+  right: 7.3571%;
+  top: 62.6904%;
+  bottom: 35.0726%;
+  background-image:/* webpackIgnore: true */ url('/assets/dizlee_AwardCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer1Copy3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 55.5079%;
+  bottom: 38.1439%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer1Copy3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy6 {
+  position: absolute;
+  left: 75.9286%;
+  right: 0;
+  top: 59.5042%;
+  bottom: 38.1439%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy6.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy62 {
+  position: absolute;
+  left: 61.7143%;
+  right: 4.4286%;
+  top: 55.0907%;
+  bottom: 42.0435%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy62.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.laptop {
+  position: absolute;
+  left: 54.2143%;
+  right: 7.2143%;
+  top: 55.1391%;
+  bottom: 42.2068%;
+  background-image:/* webpackIgnore: true */ url('/assets/laptop.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.kNOWLEDGEHUB {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 26.3416%;
+  right: 3.7298%;
+  top: 49.1243%;
+  bottom: 50.0655%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tHEDIGITAL {
+  color: #fff;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.7386%;
+  right: 44.3328%;
+  top: 48.5016%;
+  bottom: 50.6882%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.lEARNTHESKILLSOFTHEFUTURE {
+  color: #6edd6e;
+  font-size: 56.501px;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.7076%;
+  right: 23.7924%;
+  top: 49.8745%;
+  bottom: 49.7143%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.inTodaySRapidlyEvolvingDigital {
+  transform-origin: top left;
+  position: absolute;
+  left: 6.9938%;
+  right: 10.3633%;
+  top: 50.5956%;
+  bottom: 49.1928%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.labelWrapper6 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label12 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label13 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label14 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.essentialEveryNewsletterWeWill {
+  transform-origin: top left;
+  position: absolute;
+  left: 6.9934%;
+  right: 11.1495%;
+  top: 50.7971%;
+  bottom: 48.9912%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.labelWrapper7 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label15 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label16 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label17 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.aheadOfTheCurveACollectionOfRe {
+  transform-origin: top left;
+  position: absolute;
+  left: 6.993%;
+  right: 14.2927%;
+  top: 50.9987%;
+  bottom: 48.7897%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.labelWrapper8 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label18 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label19 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label20 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.expandYourdigitalSkillsAndBroa {
+  transform-origin: top left;
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9926%;
+  right: 37.5789%;
+  top: 51.2002%;
+  bottom: 48.5882%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.thisQuarterSPickLinkedInAndCou {
+  transform-origin: top left;
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9917%;
+  right: 50.5797%;
+  top: 51.6033%;
+  bottom: 48.1851%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.whatIsLinkedInLearning {
+  transform-origin: top left;
+  position: absolute;
+  left: 6.9906%;
+  right: 54.1522%;
+  top: 52.1323%;
+  bottom: 47.5654%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.labelWrapper9 {
+  font-size: 41.667px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label21 {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label22 {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.linkedInLearningIsAnOnlinePlat {
+  transform-origin: top left;
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9901%;
+  right: 9.1528%;
+  top: 52.4094%;
+  bottom: 47.379%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.personalizedOnDemandLearningFo {
+  transform-origin: top left;
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9896%;
+  right: 9.6532%;
+  top: 52.6109%;
+  bottom: 47.1775%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.itAllowsUsersToShowcaseComplet {
+  transform-origin: top left;
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.9892%;
+  right: 20.4393%;
+  top: 52.8125%;
+  bottom: 46.9759%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0.0002, -0.0002, 1, 0, 0);
+}
+.howDoesItWork {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 67.0645%;
+  top: 53.5965%;
+  bottom: 46.1012%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1ContactTMDLeadIqZainComToActi {
+  position: absolute;
+  left: 7.0069%;
+  right: 30.3502%;
+  top: 53.8736%;
+  bottom: 45.9148%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper10 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label23 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label24 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label25 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._2YouWillReceiveAnInvitationEma {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 20.7074%;
+  top: 54.0752%;
+  bottom: 45.7132%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._3ApplyYourZainEmailCreateYourP {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 45.0645%;
+  top: 54.2767%;
+  bottom: 45.5117%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._4SearchForTheCourse {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 68.7074%;
+  top: 54.4782%;
+  bottom: 45.3102%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._5ClickOnTheCourseTitleToViewIt {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 48.9931%;
+  top: 54.6797%;
+  bottom: 45.1086%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._6IfYouHaveAccessClickStartCour {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 33.7788%;
+  top: 54.8813%;
+  bottom: 44.9071%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.howDoesItWork2 {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 66.7074%;
+  top: 57.5385%;
+  bottom: 42.1592%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1GoToWwwCourseraOrg {
+  position: absolute;
+  left: 7.3641%;
+  right: 65.7074%;
+  top: 57.8156%;
+  bottom: 41.9728%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper11 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label26 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label27 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+._2SignInOrCreateAnAccount {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 62.0645%;
+  top: 58.0171%;
+  bottom: 41.7713%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._3UseTheSearchBarToFindSpecific {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 19.3502%;
+  top: 58.2186%;
+  bottom: 41.5698%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ofAvailableCourses {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 72.4931%;
+  top: 58.4202%;
+  bottom: 41.3682%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._4SelectTheDesiredCourse {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 64.4216%;
+  top: 58.6217%;
+  bottom: 41.1667%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._5EnrollInTheCourseSomeCoursesM {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 19.7788%;
+  top: 58.8232%;
+  bottom: 40.9652%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.othersMightBeAvailableForFreeI {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 23.2074%;
+  top: 59.0248%;
+  bottom: 40.7636%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.courseYouWillBePromptedToMakeT {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 17.7788%;
+  top: 59.2263%;
+  bottom: 40.5621%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.canClickOnTheEnrollForFreeButt {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 53.5645%;
+  top: 59.4278%;
+  bottom: 40.3606%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._6StartTheCourseAfterEnrolling {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 59.4931%;
+  top: 59.6294%;
+  bottom: 40.159%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._7CompleteTheCourseByParticipat {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 20.3502%;
+  top: 59.8309%;
+  bottom: 39.9575%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.andAnyOtherCourseRequirements {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 57.6359%;
+  top: 60.0324%;
+  bottom: 39.756%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._8UponCompletionYouMayReceiveAC {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 23.8502%;
+  top: 60.234%;
+  bottom: 39.5544%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.dependingOnTheCourseSSettings {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3641%;
+  right: 57.3502%;
+  top: 60.4355%;
+  bottom: 39.3529%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.whatIsCoursera {
+  position: absolute;
+  left: 7.0069%;
+  right: 66.7074%;
+  top: 55.9484%;
+  bottom: 43.7493%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper12 {
+  font-size: 41.667px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label28 {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label29 {
+  color: #5b0ad9;
+  font-size: 41.667px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.courseraIsAnOnlineLearningPlat {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 42.4216%;
+  top: 56.2255%;
+  bottom: 43.5629%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.wideRangeOfPaidAsWellAsFreeCou {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 47.3502%;
+  top: 56.427%;
+  bottom: 43.3614%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.programsFromTopUniversitiesAnd {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 47.2074%;
+  top: 56.6286%;
+  bottom: 43.1598%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.worldwideAccessibleToLearnersG {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0069%;
+  right: 51.4216%;
+  top: 56.8301%;
+  bottom: 42.9583%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObject19 {
+  position: absolute;
+  left: 83.7857%;
+  right: 3.5%;
+  top: 59.8065%;
+  bottom: 39.0568%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject19.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hAPPYLEARNING {
+  color: #fff;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16.0244%;
+  right: 11.6899%;
+  top: 60.8535%;
+  bottom: 38.3363%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rOADMAP {
+  color: #6bdd6b;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.7681%;
+  right: 6.5176%;
+  top: 39.1304%;
+  bottom: 60.0595%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.STAYTUNED {
+  color: #6bdd6b;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.1274%;
+  right: 19.0155%;
+  top: 47.238%;
+  bottom: 51.9519%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.gETASNEAKPEEKINTOWHATISCOMING {
+  color: #5b0ad9;
+  font-size: 56.501px;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.1362%;
+  right: 5.9352%;
+  top: 39.8685%;
+  bottom: 59.7204%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.pRODUCT {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.9529%;
+  right: 49.9042%;
+  top: 39.1304%;
+  bottom: 60.0594%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.eXCITINGNEWS {
+  color: #5b0ad9;
+  font-size: 33.333px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.2156%;
+  right: 69.8558%;
+  top: 40.4926%;
+  bottom: 59.2656%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.someBigProductReleasesArePlann {
+  position: absolute;
+  left: 10.2156%;
+  right: 12.6415%;
+  top: 40.7415%;
+  bottom: 59.0469%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper13 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label30 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label31 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.oodiAppWithAdvancedLifestylePr {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.2156%;
+  right: 12.4272%;
+  top: 40.9591%;
+  bottom: 58.8292%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.experienceAndABrandNewZainSMob {
+  position: absolute;
+  left: 10.2156%;
+  right: 13.4986%;
+  top: 41.1768%;
+  bottom: 58.6116%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper14 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label32 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label33 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label34 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.modernCustomerExperience {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.2156%;
+  right: 60.3558%;
+  top: 41.3884%;
+  bottom: 58.4%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.newAndEnhancedFeaturesAreComin {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 49.7302%;
+  right: 8.3412%;
+  top: 42.6163%;
+  bottom: 57.172%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.RedesignedSignUpJourney {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 49.7302%;
+  right: 20.4126%;
+  top: 42.828%;
+  bottom: 56.9604%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.InDepthEventTracking {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 49.7302%;
+  right: 24.7698%;
+  top: 43.0396%;
+  bottom: 56.7488%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ClevertapIntegrationForAdvance {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 49.7302%;
+  right: 14.1984%;
+  top: 43.2512%;
+  bottom: 56.5372%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.analyticsPersonalizedMessaging {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 49.7302%;
+  right: 11.6984%;
+  top: 43.4628%;
+  bottom: 56.3256%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.engagementToolsMore {
+  position: absolute;
+  left: 49.7302%;
+  right: 24.1269%;
+  top: 43.6744%;
+  bottom: 56.114%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper15 {
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label35 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label36 {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.refreshedSelfCareFeaturesInclu {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7871%;
+  right: 51.0701%;
+  top: 45.1616%;
+  bottom: 54.6268%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.registrationSubscriptionManage {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7871%;
+  right: 45.5701%;
+  top: 45.3732%;
+  bottom: 54.4152%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.NextBestActionDashboard {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7871%;
+  right: 59.8558%;
+  top: 45.5848%;
+  bottom: 54.2036%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ExclusiveWelcomeGift {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7871%;
+  right: 65.4986%;
+  top: 45.7964%;
+  bottom: 53.992%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.EmbeddedImtiyaz {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7871%;
+  right: 69.5701%;
+  top: 46.008%;
+  bottom: 53.7804%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.AppReferralsAndInAppFeedback {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7871%;
+  right: 54.7129%;
+  top: 46.2196%;
+  bottom: 53.5688%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.More {
+  color: #5b0ad9;
+  font-size: 29.167px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7871%;
+  right: 82.3558%;
+  top: 46.4312%;
+  bottom: 53.3572%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.hueSaturation16Copy2 {
+  position: absolute;
+  left: -39.9286%;
+  right: 77.3571%;
+  top: 38.8331%;
+  bottom: 53.283%;
+  background-image:/* webpackIgnore: true */ url('/assets/hueSaturation16Copy2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.shadow {
+  position: absolute;
+  left: -2.0714%;
+  right: 28.7143%;
+  top: 40.0605%;
+  bottom: 54.3894%;
+  background-image:/* webpackIgnore: true */ url('/assets/shadow.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.shadowCopy {
+  position: absolute;
+  left: 14.4286%;
+  right: 0;
+  top: 42.0375%;
+  bottom: 52.4123%;
+  background-image:/* webpackIgnore: true */ url('/assets/shadowCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 31.6808%;
+  bottom: 61.1608%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.halfCricleCopy2 {
+  position: absolute;
+  left: 6.9286%;
+  right: 77.9286%;
+  top: 31.4148%;
+  bottom: 66.9287%;
+  background-image:/* webpackIgnore: true */ url('/assets/halfCricleCopy2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.zainDigitalServices {
+  position: absolute;
+  left: 50%;
+  right: 10.2143%;
+  top: 25.0605%;
+  bottom: 72.2975%;
+  background-image:/* webpackIgnore: true */ url('/assets/zainDigitalServices.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy42 {
+  position: absolute;
+  left: 5.2143%;
+  right: 87%;
+  top: 31.711%;
+  bottom: 67.6421%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy42.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dIGITAL {
+  color: #6bdd6b;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.8815%;
+  right: 47.9756%;
+  top: 31.8813%;
+  bottom: 67.3085%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.launched10FirstInMarketProduct {
+  position: absolute;
+  left: 22.9299%;
+  right: 23.2129%;
+  top: 33.6841%;
+  bottom: 66.1164%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper16 {
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label37 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label38 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label39 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.applicationLastYear {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.9299%;
+  right: 58.7129%;
+  top: 33.8806%;
+  bottom: 65.9199%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.achievedSignificantCustomerBas {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.9299%;
+  right: 22.8558%;
+  top: 34.0771%;
+  bottom: 65.7234%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.achievedATwofoldIncreaseInNetR {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.9299%;
+  right: 22.0701%;
+  top: 34.2736%;
+  bottom: 65.5269%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.achievedProfitabilityIn15Years {
+  position: absolute;
+  left: 22.9299%;
+  right: 46.6415%;
+  top: 34.4701%;
+  bottom: 65.3304%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper17 {
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label40 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label41 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.dIDYOUKNOW {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 25.3101%;
+  right: 10.2614%;
+  top: 32.5585%;
+  bottom: 66.6314%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.accomplishedExcellentGrowthInT {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.7156%;
+  right: 41.9272%;
+  top: 35.0747%;
+  bottom: 64.7258%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.revenuesDuringThePastYear {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.7156%;
+  right: 49.9986%;
+  top: 35.2712%;
+  bottom: 64.5293%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.significantContributionToTotal {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.7156%;
+  right: 40.1415%;
+  top: 35.4677%;
+  bottom: 64.3328%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.effectiveContributionToNetReve {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.7156%;
+  right: 42.8558%;
+  top: 35.6642%;
+  bottom: 64.1363%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.hosted20Tournaments {
+  position: absolute;
+  left: 22.7156%;
+  right: 54.2129%;
+  top: 36.3383%;
+  bottom: 63.4622%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper18 {
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label42 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label43 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label44 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.welcomed3kParticipants {
+  position: absolute;
+  left: 22.7156%;
+  right: 52.1415%;
+  top: 36.5348%;
+  bottom: 63.2657%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper19 {
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label45 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label46 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label47 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.awarded80kInPrizes {
+  position: absolute;
+  left: 22.7156%;
+  right: 55.5701%;
+  top: 36.7313%;
+  bottom: 63.0692%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper20 {
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label48 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label49 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label50 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.developed4NewDigitalAssetsInTh {
+  position: absolute;
+  left: 22.7156%;
+  right: 34.3558%;
+  top: 37.6986%;
+  bottom: 62.1019%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper21 {
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label51 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label52 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label53 {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.launchedTheZainFiApplicationEn {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.7156%;
+  right: 15.8558%;
+  top: 37.8951%;
+  bottom: 61.9054%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.manageTheirZainFiAccountsAndDe {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.7156%;
+  right: 37.8558%;
+  top: 38.0916%;
+  bottom: 61.7089%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.layer7 {
+  position: absolute;
+  left: 69.7143%;
+  right: 0;
+  top: 31.6747%;
+  bottom: 60.4414%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer7.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.WEARE {
+  color: #fff;
+  font-size: 94.458px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 64.1443%;
+  right: 4.3557%;
+  top: 34.6494%;
+  bottom: 64.6614%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.zAIN {
+  color: #fff;
+  font-size: 94.458px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 64.1443%;
+  right: 19.4271%;
+  top: 35.1607%;
+  bottom: 64.15%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.iRAQS {
+  color: #fff;
+  font-size: 94.458px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 64.1443%;
+  right: 13.4271%;
+  top: 35.6721%;
+  bottom: 63.6387%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.dIGITAL2 {
+  color: #fff;
+  font-size: 94.458px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 64.1443%;
+  right: 9.2129%;
+  top: 36.1834%;
+  bottom: 63.1273%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fUTURE {
+  color: #fff;
+  font-size: 94.458px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 64.1443%;
+  right: 6.7843%;
+  top: 36.6948%;
+  bottom: 62.616%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ZAIN {
+  position: absolute;
+  left: 53.1672%;
+  right: 18.4042%;
+  top: 31.8813%;
+  bottom: 67.3085%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper22 {
+  font-size: 110.402px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label54 {
+  color: #fff;
+  font-size: 110.402px;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label55 {
+  color: #fff;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.iconOodiCopy {
+  position: absolute;
+  left: 1.3571%;
+  right: 73.3571%;
+  top: 33.7062%;
+  bottom: 64.9154%;
+  background-image:/* webpackIgnore: true */ url('/assets/iconOodiCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.zainDigitalServicesCopy {
+  position: absolute;
+  left: 1%;
+  right: 73.7143%;
+  top: 34.9335%;
+  bottom: 63.688%;
+  background-image:/* webpackIgnore: true */ url('/assets/zainDigitalServicesCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.eSPORTSCopy {
+  position: absolute;
+  left: 0.8571%;
+  right: 73.3571%;
+  top: 36.179%;
+  bottom: 62.4123%;
+  background-image:/* webpackIgnore: true */ url('/assets/eSPORTSCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.digitalFactoryCopy {
+  position: absolute;
+  left: 1%;
+  right: 73.4286%;
+  top: 37.4305%;
+  bottom: 61.179%;
+  background-image:/* webpackIgnore: true */ url('/assets/digitalFactoryCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dotsUpper {
+  position: absolute;
+  left: 87.8571%;
+  right: -12.2143%;
+  top: 26.2878%;
+  bottom: 73.3313%;
+  background-image:/* webpackIgnore: true */ url('/assets/dotsUpper.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dotsUpperCopy {
+  position: absolute;
+  left: 37.8571%;
+  right: 37.7857%;
+  top: 29.3108%;
+  bottom: 70.3083%;
+  background-image:/* webpackIgnore: true */ url('/assets/dotsUpperCopy.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject20 {
+  position: absolute;
+  left: -1.2857%;
+  right: 77.8571%;
+  top: 24.9154%;
+  bottom: 74.7098%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject20.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.halfCricle {
+  position: absolute;
+  left: 1.2143%;
+  right: 79.4286%;
+  top: 22.7449%;
+  bottom: 75.5985%;
+  background-image:/* webpackIgnore: true */ url('/assets/halfCricle.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.halfCricleCopy22 {
+  position: absolute;
+  left: 1237.5947px;
+  top: 4673.4639px;
+  width: 324.5963px;
+  height: 188.4523px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.wHENWESAY {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.1672%;
+  right: 35.4042%;
+  top: 23.2719%;
+  bottom: 75.918%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObject21 {
+  position: absolute;
+  left: -26.1429%;
+  right: 93.5%;
+  top: 27.8235%;
+  bottom: 69.4135%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject21.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy63 {
+  position: absolute;
+  left: 37.5%;
+  right: 37.5%;
+  top: 25.0544%;
+  bottom: 72.8295%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy63.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dIGITALWEMEAN {
+  position: absolute;
+  left: 15.5958%;
+  right: 4.4756%;
+  top: 23.9248%;
+  bottom: 75.265%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper23 {
+  font-size: 110.402px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label56 {
+  color: #6bdd6b;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label57 {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.iraqSFirstAndOnlyDigitalNative {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.8896%;
+  right: 53.8961%;
+  top: 27.5475%;
+  bottom: 72.253%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.trackToBecomeTheNationSLeading {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.1143%;
+  right: 56.7429%;
+  top: 27.744%;
+  bottom: 72.0565%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.superapp {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.0513%;
+  right: 68.7344%;
+  top: 27.9405%;
+  bottom: 71.86%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.enablingMobilePaymentsOverCarr {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.4363%;
+  right: 9.6351%;
+  top: 27.5475%;
+  bottom: 72.253%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.billingAcrossGamingAppsEnterta {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.3547%;
+  right: 7.3596%;
+  top: 27.744%;
+  bottom: 72.0565%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.andMuchMore {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.3381%;
+  right: 19.8761%;
+  top: 27.9405%;
+  bottom: 71.86%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.managingOrganizingLocalRegiona {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.6478%;
+  right: 54.5665%;
+  top: 30.4314%;
+  bottom: 69.3691%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sportTournamentsAndSponsoring {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.1174%;
+  right: 57.3112%;
+  top: 30.6279%;
+  bottom: 69.1726%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.professionalTeamsToContinueNou {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.0937%;
+  right: 53.692%;
+  top: 30.8244%;
+  bottom: 68.9761%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.strongTiesWithTheIraqiGaming {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 12.1939%;
+  right: 58.3061%;
+  top: 31.0209%;
+  bottom: 68.7796%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.community {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.4371%;
+  right: 67.9201%;
+  top: 31.2174%;
+  bottom: 68.5831%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ourSuperbInHouseTeamDriving {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 57.3389%;
+  right: 11.3754%;
+  top: 30.4292%;
+  bottom: 69.3713%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.innovationAcrossCustomerAppsAn {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.7767%;
+  right: 10.0804%;
+  top: 30.6257%;
+  bottom: 69.1748%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.operationalPlatforms {
+  color: #5b0ad9;
+  font-size: 27.083px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 62.6956%;
+  right: 17.3044%;
+  top: 30.8222%;
+  bottom: 68.9783%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.iconOodi {
+  position: absolute;
+  left: 8.2143%;
+  right: 54.7857%;
+  top: 25.4655%;
+  bottom: 72.5091%;
+  background-image:/* webpackIgnore: true */ url('/assets/iconOodi.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.eSPORTS {
+  position: absolute;
+  left: 7.7857%;
+  right: 54.4286%;
+  top: 28.3313%;
+  bottom: 69.607%;
+  background-image:/* webpackIgnore: true */ url('/assets/eSPORTS.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.digitalFactory {
+  position: absolute;
+  left: 54.5714%;
+  right: 8%;
+  top: 28.3495%;
+  bottom: 69.607%;
+  background-image:/* webpackIgnore: true */ url('/assets/digitalFactory.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject22 {
+  position: absolute;
+  left: 85.5%;
+  right: 10.0714%;
+  top: 25.26%;
+  bottom: 74.3531%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject22.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject23 {
+  position: absolute;
+  left: 10.5%;
+  right: 81%;
+  top: 22.5756%;
+  bottom: 76.705%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject23.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iNTRODUCING {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.8269%;
+  right: 16.1017%;
+  top: 14.6228%;
+  bottom: 84.5671%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tHETEAM {
+  color: #5b0ad9;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 49.684%;
+  right: 2.9589%;
+  top: 15.2636%;
+  bottom: 83.9262%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.dots {
+  position: absolute;
+  left: -2.2857%;
+  right: 86.8571%;
+  top: 15.3688%;
+  bottom: 84.3894%;
+  background-image:/* webpackIgnore: true */ url('/assets/dots.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject24 {
+  position: absolute;
+  left: 81.1429%;
+  right: -4.5714%;
+  top: 17.3156%;
+  bottom: 82.3096%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject24.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.halfCricle2 {
+  position: absolute;
+  left: 5.6429%;
+  right: 75.3571%;
+  top: 13.7485%;
+  bottom: 84.5707%;
+  background-image:/* webpackIgnore: true */ url('/assets/halfCricle2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject25 {
+  position: absolute;
+  left: 14.7143%;
+  right: 76.7857%;
+  top: 15.006%;
+  bottom: 84.2745%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject25.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.teamIcon {
+  position: absolute;
+  left: 10.7143%;
+  right: 10.7857%;
+  top: 16.2334%;
+  bottom: 77.1463%;
+  background-image:/* webpackIgnore: true */ url('/assets/teamIcon.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy8 {
+  position: absolute;
+  left: 90%;
+  right: 4.4286%;
+  top: 14.1173%;
+  bottom: 85.399%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy8.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.zain {
+  position: absolute;
+  left: 87.7857%;
+  right: -12.1429%;
+  top: 21.4873%;
+  bottom: 76.451%;
+  background-image:/* webpackIgnore: true */ url('/assets/zain.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sideElementDesignCopy2 {
+  position: absolute;
+  left: -101%;
+  right: 66.7857%;
+  top: 9.9456%;
+  bottom: 79.6675%;
+  background-image:/* webpackIgnore: true */ url('/assets/sideElementDesignCopy2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle2 {
+  position: absolute;
+  left: 31%;
+  right: -0.2857%;
+  top: 5.1995%;
+  bottom: 86.0701%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ballHeader {
+  position: absolute;
+  left: 51.5714%;
+  right: 32.2143%;
+  top: 4.5103%;
+  bottom: 94.1173%;
+  background-image:/* webpackIgnore: true */ url('/assets/ballHeader.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dotsUpper2 {
+  position: absolute;
+  left: 2.7143%;
+  right: 80.1429%;
+  top: 5.4897%;
+  bottom: 94.2443%;
+  background-image:/* webpackIgnore: true */ url('/assets/dotsUpper2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sideElementDesign {
+  position: absolute;
+  left: -29.0714%;
+  right: 76.5%;
+  top: 11.7715%;
+  bottom: 85.0121%;
+  background-image:/* webpackIgnore: true */ url('/assets/sideElementDesign.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle1Copy3 {
+  position: absolute;
+  left: 4.3571%;
+  right: 51.1429%;
+  top: 6.5538%;
+  bottom: 86.0822%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1Copy3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2 {
+  position: absolute;
+  left: 14.4286%;
+  right: 61.1429%;
+  top: 5.526%;
+  bottom: 92.4063%;
+  background-image:/* webpackIgnore: true */ url('/assets/_2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.inTodaySFastPacedWorldWhere {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.8804%;
+  right: 55.9768%;
+  top: 8.3515%;
+  bottom: 91.4369%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.connectivityAndCommunicationAr {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.9512%;
+  right: 55.4059%;
+  top: 8.5026%;
+  bottom: 91.2858%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.moreImportantThanEverWeFind {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.4116%;
+  right: 56.3027%;
+  top: 8.6538%;
+  bottom: 91.1346%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ourselvesAtTheForefrontOfShapi {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.4326%;
+  right: 52.8531%;
+  top: 8.8049%;
+  bottom: 90.9835%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.digitalFuture {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.3591%;
+  right: 66.5695%;
+  top: 8.9561%;
+  bottom: 90.8323%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ourMissionToConnectPeople {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.7094%;
+  right: 57.6477%;
+  top: 9.2583%;
+  bottom: 90.53%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.businessesAndCommunitiesThroug {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.7241%;
+  right: 53.9901%;
+  top: 9.4095%;
+  bottom: 90.3789%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cuttingEdgeTechnologyIsNotOnly {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.3199%;
+  right: 55.6086%;
+  top: 9.5606%;
+  bottom: 90.2278%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.impactfulButAlsoEssentialItIsY {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.3044%;
+  right: 54.7671%;
+  top: 9.7118%;
+  bottom: 90.0766%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.talentAndRelentlessPursuitOfEx {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.7596%;
+  right: 52.1689%;
+  top: 9.8629%;
+  bottom: 89.9255%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.thatEnablesUsToDeliverSuperior {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.2959%;
+  right: 56.1326%;
+  top: 10.0141%;
+  bottom: 89.7743%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.servicesBridgingGapsAndEmpower {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0576%;
+  right: 53.0139%;
+  top: 10.1652%;
+  bottom: 89.6232%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.individualsAndOrganizations {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 12.3656%;
+  right: 58.4915%;
+  top: 10.3163%;
+  bottom: 89.4721%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.digitalizationPresentsVastOppo {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.0221%;
+  right: 52.6921%;
+  top: 10.6186%;
+  bottom: 89.1698%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.forGrowthInnovationAndSuperior {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.6304%;
+  right: 55.2982%;
+  top: 10.7698%;
+  bottom: 89.0186%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.customerExperiencesByAdoptingD {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.643%;
+  right: 52.5713%;
+  top: 10.9209%;
+  bottom: 88.8675%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.technologiesWeCanOptimizeEffic {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.1481%;
+  right: 52.3519%;
+  top: 11.072%;
+  bottom: 88.7163%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.streamlineOperationsAndTapInto {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.4627%;
+  right: 53.6087%;
+  top: 11.2232%;
+  bottom: 88.5652%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.revenueStreamsToThatEndIAm {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.4793%;
+  right: 56.0921%;
+  top: 11.3743%;
+  bottom: 88.4141%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.delightedToSupportOurDigitalTe {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.1804%;
+  right: 54.4624%;
+  top: 11.5255%;
+  bottom: 88.2629%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ideaOfLaunchingAQuarterlyDigit {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.4251%;
+  right: 55.932%;
+  top: 11.6766%;
+  bottom: 88.1118%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.newsletterAPlatformThatWillKee {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.9388%;
+  right: 52.9898%;
+  top: 11.8278%;
+  bottom: 87.9606%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.informedConnectedAndPreparedTo {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.1491%;
+  right: 54.4937%;
+  top: 11.9789%;
+  bottom: 87.8095%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.leadInTheTelecommunicationsInd {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.3128%;
+  right: 52.9015%;
+  top: 12.13%;
+  bottom: 87.6583%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.wishingYouAllAfantasticQuarter {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.7378%;
+  right: 53.1908%;
+  top: 12.5835%;
+  bottom: 87.2049%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.aliAlZahid {
+  color: #fff;
+  font-size: 38.332px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 19.2111%;
+  right: 64.8603%;
+  top: 7.7444%;
+  bottom: 91.9775%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chiefExecutiveOfficer {
+  color: #6bdd6b;
+  font-size: 38.332px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 12.2799%;
+  right: 56.7201%;
+  top: 8.0225%;
+  bottom: 91.6994%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle1Copy4 {
+  position: absolute;
+  left: 51%;
+  right: 4.5%;
+  top: 6.5538%;
+  bottom: 86.0822%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle1Copy4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2Copy2 {
+  position: absolute;
+  left: 61.1429%;
+  right: 14.4286%;
+  top: 5.526%;
+  bottom: 92.4063%;
+  background-image:/* webpackIgnore: true */ url('/assets/_2Copy2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iAmVeryExcitedToShareWithYouOu {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.2707%;
+  right: 6.5864%;
+  top: 8.3515%;
+  bottom: 91.4369%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.newQuarterlyDigitalNewsletterW {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.4374%;
+  right: 6.4911%;
+  top: 8.5213%;
+  bottom: 91.2671%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.beenWorkingTirelesslyOnManyExc {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.5239%;
+  right: 5.6189%;
+  top: 8.6912%;
+  bottom: 91.0972%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.projectsAndItSHighTimeWeFoundA {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.5353%;
+  right: 7.2504%;
+  top: 8.861%;
+  bottom: 90.9274%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.betterWayToShareOurSuccessesAn {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.2332%;
+  right: 6.5525%;
+  top: 9.0308%;
+  bottom: 90.7576%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.updatesWithEachAndEveryOneOfYo {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.0624%;
+  right: 5.8661%;
+  top: 9.2007%;
+  bottom: 90.5877%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.thisIsWhereThisNewsletterIdeaW {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.301%;
+  right: 3.4847%;
+  top: 9.3705%;
+  bottom: 90.4179%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.onAQuarterlyBasisWeWantTo {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 58.03%;
+  right: 10.1129%;
+  top: 9.5403%;
+  bottom: 90.2481%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.celebrateTheRemarkableAchievem {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.5312%;
+  right: 6.5402%;
+  top: 9.7102%;
+  bottom: 90.0782%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.withinOurDigitalLandscapeFromT {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.9041%;
+  right: 7.5959%;
+  top: 9.88%;
+  bottom: 89.9084%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.amazingStridesMadeByOurOodiTea {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.4364%;
+  right: 6.7064%;
+  top: 10.0498%;
+  bottom: 89.7386%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.toTheLatestInnovationsInOurDig {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.9541%;
+  right: 7.6888%;
+  top: 10.2197%;
+  bottom: 89.5687%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.servicesESportsVenturesAndOur {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 57.13%;
+  right: 7.87%;
+  top: 10.3895%;
+  bottom: 89.3989%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.portfolioOfOutstandingZainApps {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 57.1634%;
+  right: 8.9081%;
+  top: 10.5593%;
+  bottom: 89.2291%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.butItDoesnTEndThereWeWantThis {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 56.0082%;
+  right: 6.9918%;
+  top: 10.899%;
+  bottom: 88.8894%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.newsletterToBeMoreThanJustASou {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.4719%;
+  right: 4.0996%;
+  top: 11.0688%;
+  bottom: 88.7195%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.updatesItSAnOpportunityForAllO {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.0426%;
+  right: 4.8145%;
+  top: 11.2387%;
+  bottom: 88.5497%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.becomeDigitalNativesEquippedWi {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.5979%;
+  right: 5.1879%;
+  top: 11.4085%;
+  bottom: 88.3799%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.knowledgeAndResourcesNecessary {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.2145%;
+  right: 6.1426%;
+  top: 11.5783%;
+  bottom: 88.21%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.thriveInTheDigitalEraDigital {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 59.5133%;
+  right: 11.0581%;
+  top: 11.7482%;
+  bottom: 88.0402%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.transformationIsnTLimitedToASi {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 56.0853%;
+  right: 6.9861%;
+  top: 11.918%;
+  bottom: 87.8704%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.departmentItEncompassesEveryOn {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 53.5771%;
+  right: 4.4229%;
+  top: 12.0879%;
+  bottom: 87.7005%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.usAtZainByUnitingOurEffortsBre {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.3041%;
+  right: 4.4816%;
+  top: 12.2577%;
+  bottom: 87.5307%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.downSilosAndFosteringACultureO {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 56.3894%;
+  right: 7.2534%;
+  top: 12.4275%;
+  bottom: 87.3609%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.innovationWeCanPushBoundariesA {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54.7468%;
+  right: 5.6818%;
+  top: 12.5974%;
+  bottom: 87.191%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.achieveEvenGreaterHeights {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 60.1716%;
+  right: 10.757%;
+  top: 12.7672%;
+  bottom: 87.0212%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.letUsKnowWhatYou {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 63.2027%;
+  right: 15.2973%;
+  top: 13.1069%;
+  bottom: 86.6815%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.thinkdigitalIqZainCom {
+  color: #fff;
+  font-size: 29.165px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 62.0996%;
+  right: 13.9718%;
+  top: 13.2767%;
+  bottom: 86.5117%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.danielTuran {
+  color: #fff;
+  font-size: 38.353px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 65.2914%;
+  right: 17.9229%;
+  top: 7.7443%;
+  bottom: 91.9776%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.chiefDigitalOfficer {
+  color: #6bdd6b;
+  font-size: 38.353px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 60.8972%;
+  right: 12.6028%;
+  top: 8.0225%;
+  bottom: 91.6994%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle12 {
+  position: absolute;
+  left: -14.0575%;
+  right: -10.2718%;
+  top: 0;
+  bottom: 94.7944%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.layer11 {
+  position: absolute;
+  left: 35.3571%;
+  right: -0.0714%;
+  top: 0;
+  bottom: 97.2612%;
+  background-image:/* webpackIgnore: true */ url('/assets/layer11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ellipse12 {
+  position: absolute;
+  left: 5.4043%;
+  right: 54.6614%;
+  top: 0.4467%;
+  bottom: 96.1729%;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.vectorSmartObject26 {
+  position: absolute;
+  left: 7.9286%;
+  right: 80.7857%;
+  top: 3.0713%;
+  bottom: 96.7473%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject26.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy32 {
+  position: absolute;
+  left: 36.5%;
+  right: 46.7857%;
+  top: 1.318%;
+  bottom: 97.2672%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy32.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject27 {
+  position: absolute;
+  left: 31.8571%;
+  right: 54.2857%;
+  top: 3.9782%;
+  bottom: 95.5623%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject27.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject28 {
+  position: absolute;
+  left: 42.2143%;
+  right: 46%;
+  top: 1.3543%;
+  bottom: 97.6481%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject28.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject29 {
+  position: absolute;
+  left: 77.9286%;
+  right: 2.8571%;
+  top: 3.3313%;
+  bottom: 96.3482%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject29.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dIGITAL3 {
+  color: #fff;
+  font-size: 111.337px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.5709%;
+  right: 61.0006%;
+  top: 1.705%;
+  bottom: 97.4788%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.unnamed {
+  color: #fff;
+  font-size: 46.62px;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.465%;
+  right: 70.3921%;
+  top: 4.148%;
+  bottom: 95.5134%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.zainLogoLeftWith2Logos2 {
+  position: absolute;
+  left: 8.0714%;
+  right: 74.5714%;
+  top: 4.0629%;
+  bottom: 95.5381%;
+  background-image:/* webpackIgnore: true */ url('/assets/zainLogoLeftWith2Logos2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.the {
+  color: #6bdd6b;
+  font-size: 110.402px;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5.0969%;
+  right: 80.5459%;
+  top: 1.138%;
+  bottom: 98.0518%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.iNSIDER {
+  color: #6bdd6b;
+  font-size: 110.402px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 15.6307%;
+  right: 53.2264%;
+  top: 2.299%;
+  bottom: 96.8909%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.zainIraqDigitalOodiS {
+  color: #fff;
+  font-size: 43.988px;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.6876%;
+  right: 2.9552%;
+  top: 3.8495%;
+  bottom: 95.8301%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.quarterlyNewsletter {
+  color: #fff;
+  font-size: 43.988px;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.6876%;
+  right: 7.1695%;
+  top: 4.1686%;
+  bottom: 95.5109%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vectorSmartObject30 {
+  position: absolute;
+  left: 34.3571%;
+  right: 59.0714%;
+  top: 1.2696%;
+  bottom: 98.2044%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject30.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObject31 {
+  position: absolute;
+  left: 40.5%;
+  right: 54.1429%;
+  top: 0.6106%;
+  bottom: 98.4401%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObject31.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy2 {
+  position: absolute;
+  left: 32.1429%;
+  right: 61.7143%;
+  top: 1.0278%;
+  bottom: 98.4401%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy10 {
+  position: absolute;
+  left: 84.5%;
+  right: 11.6429%;
+  top: 2.763%;
+  bottom: 96.8984%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy10.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vectorSmartObjectCopy12 {
+  position: absolute;
+  left: 85.6429%;
+  right: -0.0714%;
+  top: 0.9371%;
+  bottom: 96.977%;
+  background-image:/* webpackIgnore: true */ url('/assets/vectorSmartObjectCopy12.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
