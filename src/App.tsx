@@ -4,17 +4,20 @@ import type { FC } from 'react';
 import classes from './App.module.css';
 import resets from './components/_resets.module.css';
 import { OodiNewsletterEnglish1 } from './components/OodiNewsletterEnglish1/OodiNewsletterEnglish1';
-function setZoom() {
-  var screenWidth = window.innerWidth;
-  var scaleFactor = screenWidth / 1500; // Adjust 1200 based on your desired base width
 
-  document.body.style.zoom = scaleFactor * 100 + '%';
+
+function setZoom() {
+  const screenWidth = window.innerWidth;
+  const scaleFactor = screenWidth / 1200; // Adjust 1200 based on your desired base width
+
+  document.body.style.transform = `scale(${scaleFactor})`;
 }
 
 window.addEventListener('resize', setZoom);
 
 // Call the function on page load
 window.addEventListener('load', setZoom);
+
 
 interface Props {
   className?: string;
